@@ -63,4 +63,8 @@ Application-Monitoring-Incident-Analytics-System/
 * **Automation**: Automated error categorization and incident creation.
 * **Efficiency**: Reduced manual analysis effort by approximately 60% through Python scripting and Excel automation.
 * **Visualization**: Created interactive Power BI dashboards summarizing key metrics.
-# Application-Monitoring-Incident-Analytics-System
+## Dashboard Screenshots
+
+![Dashboard Overview](screenshots/Screenshot%20%2823%29.png)
+
+![Dashboard Details](screenshots/Screenshot%20%2824%29.png)
